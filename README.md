@@ -62,16 +62,16 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
+* [`Donasi Ramlan ID`](https://saweria.co/alexanderyeremi)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Instagram Admin`](https://instagram.com/jamer.fvnky)
-* [`WhatsApp Admin `](https://wa.me/+6285735054693)
-* [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
+* [`Instagram Admin`](https://www.instagram.com/alexanderyeremi.yt/)
+* [`WhatsApp Admin `](https://wa.me/+6281281783202)
+* [`Group WhatsApp `](https://chat.whatsapp.com/Ig2hg0ZX8yiDlAd7KeXkpe)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`ALLAH SWT`]
+* [`ALLAH BAPAK`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
