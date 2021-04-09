@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Funky
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm ALEXANDER
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ramlan666/babybot/main/assets/R4ML4N.jpg" width="230" height="230"/>
 </p>
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="FUNKY DSIGN" src="https://img.shields.io/badge/FUNKY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FUNKY DSIGN" src="https://img.shields.io/badge/ALEXANDER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FUNKY-orange.svg?style=for-the-badge&logo=github"></a>
