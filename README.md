@@ -51,8 +51,8 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/JamerFunky/bot-wa
-> cd bot-wa
+> git clone https://github.com/alexanderyeremi/AlexanderBot2
+> cd AlexanderBot2
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
