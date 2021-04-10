@@ -64,7 +64,7 @@ prefix = 'a'
 blocked = []   
 limitawal = UserLimitz
 memberlimit = GrupLimitz
-cr = Alexander Yeremi
+cr = CeerTod
 
 // LOAD JSON
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
