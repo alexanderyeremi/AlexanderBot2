@@ -280,7 +280,7 @@ baby.logger.level = 'warn'
 console.log(banner.string)
    baby.on('qr', qr => {
    qrcode.generate(qr, { small: true })
-	console.log(color('[','white'), color('!','red'), color(']','white'), color(' SUBSCRIBE YT RAMLAN CHANNEL'))
+	console.log(color('[','white'), color('!','red'), color(']','white'), color(' SUBSCRIBE YT ALEXANDER YEREMI'))
 })
 
 	baby.on('credentials-updated', () => {
