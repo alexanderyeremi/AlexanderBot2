@@ -60,11 +60,11 @@ const {
     CeerTod
 } = ngonsol
 // POWERED BY RAMLAN ID
-prefix = botPrefix
+prefix = 'a'
 blocked = []   
 limitawal = UserLimitz
 memberlimit = GrupLimitz
-cr = CeerTod
+cr = Alexander Yeremi
 
 // LOAD JSON
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
