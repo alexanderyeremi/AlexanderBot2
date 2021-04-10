@@ -60,7 +60,7 @@ const {
     CeerTod
 } = ngonsol
 // POWERED BY RAMLAN ID
-prefix = 'a'
+prefix = botPrefix
 blocked = []   
 limitawal = UserLimitz
 memberlimit = GrupLimitz
